@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+seaborn
+imbalanced-learn
+openpyxl
+streamlit
+xgboost
+kneed
+nltk
+spaCy
